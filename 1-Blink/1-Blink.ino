@@ -1,6 +1,6 @@
 // Declaración de variables
 
-int led = 12;                // Led conectado no pin 12
+int led = 11;                // Led conectado no pin 11
 
 // Configuración
 
