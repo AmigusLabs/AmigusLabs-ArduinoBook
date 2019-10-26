@@ -1,2 +1,2 @@
 # AmigusLabs-ArduinoBook
-Manuel de Arduino
+Manual de Arduino
